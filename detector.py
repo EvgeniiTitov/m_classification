@@ -6,6 +6,10 @@ import os
 import cv2
 
 
+# TODO: Ability to load N images to perform batch procesing
+
+
+
 class Detector:
 
     def __init__(self):
